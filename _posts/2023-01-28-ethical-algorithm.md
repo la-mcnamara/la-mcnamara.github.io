@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Review: The Ethical Algorithm"
-date: 2021-01-28
+date: 2023-01-28
 ---
 
 I just finished reading The Ethical Algorithm by Michael Kearns and Aaron Roth.
